@@ -46,7 +46,7 @@ real-estate-price-prediction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/real-estate-price-prediction.git
+git clone https://github.com/Sameer21/real-estate-price-prediction.git
 cd real-estate-price-prediction
 
 # Create a virtual environment
