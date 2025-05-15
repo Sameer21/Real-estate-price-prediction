@@ -1,25 +1,24 @@
-This repository contains a machine learning project focused on predicting real estate prices based on features such as property area, location, and other relevant factors. The goal is to develop a reliable model that can estimate property prices to support buyers, sellers, and agents in making informed decisions.
+🏡 Real Estate Price Prediction
+This repo contains a 🧠 machine learning project to predict real estate prices based on features like 📏 area, 📍 location, and more. The goal is to help buyers, sellers, and agents make informed 💡 pricing decisions.
 
-Key Features:
+🔍 Key Features
+📊 Exploratory Data Analysis (EDA)
 
-Exploratory Data Analysis (EDA) on real estate datasets
+🧹 Data cleaning & feature engineering
 
-Data preprocessing and feature engineering
+🤖 Model training (Linear Regression)
 
-Model training using regression algorithms (e.g., Linear Regression)
+📈 Model evaluation & comparison
 
-Evaluation and comparison of model performance
+📉 Interactive visualizations
 
-Interactive visualizations and insights
+📝 Reproducible notebooks & scripts
 
-Notebook and script-based implementation for reproducibility
+🛠️ Tech Stack
+🐍 Python, Pandas, NumPy
 
-Technologies Used:
+⚙️ Scikit-learn
 
-Python, Pandas, NumPy
+📊 Matplotlib, Seaborn
 
-Scikit-learn
-
-Matplotlib, Seaborn
-
-Jupyter Notebook
+📓 Jupyter Notebook
